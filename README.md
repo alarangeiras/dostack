@@ -1,1 +1,1 @@
-# dostack
+# DO Stack (LocalStack alternative for DigitalOcean)
